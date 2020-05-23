@@ -1,13 +1,12 @@
-# hello-world
-
-#**Markdown test page**
+# **Markdown test page**
 ---
 
-##*Let`s try out some things!*
+## *Let`s try out some things!*
 
 shell script code for "Hello wolrd!"
+
 '''
-\#!/bin/bash
+#!/bin/bas
 echo "Hello world!"
 exit
 '''
