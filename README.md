@@ -1,5 +1,18 @@
 # hello-world
-pradinis puslapis, viskas kas idomu
 
-man viskas nauja cia, bet pradekim!! Turetu buti ziauriai idomu :)
-kaip cia veikia?
+#**Markdown test page**
+---
+
+##*Let`s try out some things!*
+
+shell script code for "Hello wolrd!"
+'''
+\#!/bin/bash
+echo "Hello world!"
+exit
+'''
+
+-[x] Initiating Linux and shell script
+-[]	 Create own shell script with cron job
+
+
