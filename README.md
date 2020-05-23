@@ -3,11 +3,11 @@
 
 ## *Let`s try out some things!*
 
-shell script code for "Hello wolrd!"
+shell script code for "Hello world!"
 
 '''
 
-#!/bin/bas
+\#!/bin/bash
 echo "Hello world!"
 exit
 
@@ -17,4 +17,5 @@ exit
 
 - [ ]	 Create own shell script with cron job
 
+[Markdown manual in portuguese](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
 
